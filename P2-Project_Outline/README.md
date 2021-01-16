@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I plan to build a platform where Veterinarians can set up an account where patients can select available time slots and set up an appointment online, without needing to call ahead.
 ### Features
-Include Features here
+User login, search for nearby vets, profiles for vets offices, automated confirmation emails, appointment selection.
 ### Technologies
-Include Technologies here
+C#, Microsoft MVC, MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+Learn how to set up user logins and automated emails.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/VkwlfEAW/vet-connect
